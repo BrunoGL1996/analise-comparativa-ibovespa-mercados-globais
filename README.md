@@ -3,9 +3,7 @@ Monitor financeiro que utiliza as bibliotecas Pandas e YFinance para analisar da
 
 📌 Problema de Negócio
 
-O mercado financeiro global é altamente interconectado, e entender como o Ibovespa se comporta em relação a outros índices internacionais pode ajudar investidores e empresas a tomarem decisões mais estratégicas.
-
-Este projeto tem como objetivo analisar a correlação e o comportamento do IBOV em comparação com mercados dos EUA, China e Rússia.
+Analisar como eventos geopolíticos recentes impactaram o comportamento do Ibovespa em comparação com mercados globais, considerando períodos de instabilidade internacional.
 
 📊 Dados Utilizados
 
@@ -37,6 +35,6 @@ Eventos globais impactam simultaneamente múltiplos mercados
 
 💡 Conclusão
 
-Os resultados mostram que o mercado brasileiro é fortemente influenciado por movimentos externos,
+A análise indica que eventos geopolíticos recentes coincidem com aumentos significativos de volatilidade nos mercados globais. O Ibovespa demonstrou maior sensibilidade a esses eventos em comparação com mercados desenvolvidos, enquanto índices diretamente afetados apresentaram comportamentos mais extremos e descolados.
 
 
