@@ -25,6 +25,10 @@ Power BI
 
 Excel / CSV
 
+Demonstração do Dashboard
+
+O dashboard permite acompanhar a evolução dos mercados ao longo do tempo, identificando mudanças de correlação
+
 ![Demonstração Interativa do Dashboard](./midiacorreta-ezgif.com-video-to-gif-converter.gif)
 
 📈 Principais Insights
