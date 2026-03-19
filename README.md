@@ -25,6 +25,8 @@ Power BI
 
 Excel / CSV
 
+![Demonstração Interativa do Dashboard](./midiacorreta-ezgif.com-video-to-gif-converter.gif)
+
 📈 Principais Insights
 
 O IBOV apresenta maior correlação com o mercado americano (S&P 500)
